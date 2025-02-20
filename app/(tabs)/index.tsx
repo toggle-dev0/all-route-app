@@ -18,7 +18,7 @@ export default function Index() {
           <TransportOptions />
           <SectionWrapper
             heading="Need a place to stay"
-            description="Let's find the best house for you"
+            description="Let's find the best accomodation for you my liege"
           >
             <Offers price={30} />
           </SectionWrapper>
